@@ -1,0 +1,12 @@
+Risk Prediction – 
+Worked on a machine learning project to predict whether a loan applicant is likely to default, using the Loan Prediction dataset from Kaggle.
+
+Cleaned the dataset by identifying and handling missing values in features like Gender, LoanAmount, Credit_History, and Self_Employed using appropriate techniques such as filling with median/mode.
+
+Performed exploratory data analysis (EDA) to understand the distribution and impact of key features such as applicant income, education, and loan amount. Used visual tools like histograms and count plots for deeper insights.
+
+Applied classification models including Logistic Regression and Decision Tree Classifier to train the data and predict loan default outcomes.
+
+Evaluated model performance using accuracy scores and confusion matrices to understand how well the model is performing in terms of correctly identifying defaults.
+
+Gained hands-on experience in data preprocessing, model building, and evaluation, and developed the ability to extract business insights that can support better decision-making in the financial sector
