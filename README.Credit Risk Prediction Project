@@ -1,4 +1,4 @@
-Risk Prediction – 
+Risk Prediction Intern: Ahmed Raza Attari Program: Data Science & Analytics Internship Organization: DevelopersHub Corporation
 Worked on a machine learning project to predict whether a loan applicant is likely to default, using the Loan Prediction dataset from Kaggle.
 
 Cleaned the dataset by identifying and handling missing values in features like Gender, LoanAmount, Credit_History, and Self_Employed using appropriate techniques such as filling with median/mode.
